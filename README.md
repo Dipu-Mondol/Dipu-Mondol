@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I am **Dipu Mondol** 🙋‍♂️
 
-<!--
-**Dipu-Mondol/Dipu-Mondol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **ICT** student at **Mawlana Bhashani Science and Technology University (MBSTU)** with a strong interest in **problem solving, software engineering, backend development, artificial intelligence, and competitive programming**.
 
-Here are some ideas to get you started:
+# 📚 What I am currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Improving my **Java and backend development** skills.
+* Learning **Spring Boot, REST APIs, and SQL**.
+* Learning **AI/ML**.
+* Practicing **DSA** through **competitive programming**.
+* Building **projects** using the skills that I am learning for practical experience.
+
+# ⚙️ Tools and Technologies that I have hands-on:
+
+## Languages:
+
+* C++
+* Java
+* Python
+* SQL
+
+## Development:
+
+* Spring Boot
+* REST APIs
+* MySQL
+* Git and GitHub
+* Linux
+
+## AI/ML:
+
+* Python
+* NumPy
+* Pandas
+* scikit-learn
+
+## 📧 Contact Email:
+
+**[dipumondol.dev@gmail.com](mailto:dipumondol.dev@gmail.com)**
